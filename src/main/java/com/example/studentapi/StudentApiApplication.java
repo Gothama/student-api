@@ -7,7 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class StudentApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StudentApiApplication.class, args);
-	}
 
+		SpringApplication.run(StudentApiApplication.class, args);
+
+	}
+	//create student
+	//deleting a student
+	//retrieve student
+	//delete a student
 }
